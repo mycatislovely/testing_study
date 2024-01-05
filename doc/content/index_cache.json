@@ -1,0 +1,682 @@
+{
+  "doc/content/about.html": [],
+  "doc/content/terms.html": [
+    {
+      "entry": "\u0441\u0431\u043e\u0439",
+      "link": "terms.html#index_entry_i_1",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u043e\u0442\u043a\u0430\u0437",
+      "link": "terms.html#index_entry_i_1",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0434\u0435\u0444\u0435\u043a\u0442",
+      "link": "terms.html#index_entry_i_2",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "bug",
+      "link": "terms.html#index_entry_i_2",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u043e\u0442\u0447\u0435\u0442 \u043e\u0431 \u043e\u0448\u0438\u0431\u043a\u0435",
+      "link": "terms.html#index_entry_i_3",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "bug report",
+      "link": "terms.html#index_entry_i_3",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u043e\u0448\u0438\u0431\u043a\u0430",
+      "link": "terms.html#index_entry_i_4",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "test plan",
+      "link": "terms.html#index_entry_i_5",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u043f\u043b\u0430\u043d \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+      "link": "terms.html#index_entry_i_5",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0447\u0435\u043a-\u043b\u0438\u0441\u0442",
+      "link": "terms.html#index_entry_i_6",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "checklist",
+      "link": "terms.html#index_entry_i_6",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c\u043d\u044b\u0439 \u0441\u043f\u0438\u0441\u043e\u043a",
+      "link": "terms.html#index_entry_i_6",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0441\u0442-\u043a\u0435\u0439\u0441",
+      "link": "terms.html#index_entry_i_7",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "test case",
+      "link": "terms.html#index_entry_i_7",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0441\u0442\u043e\u0432\u044b\u0439 \u043d\u0430\u0431\u043e\u0440",
+      "link": "terms.html#index_entry_i_8",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "test suite",
+      "link": "terms.html#index_entry_i_8",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0432\u0435\u0440\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f",
+      "link": "terms.html#index_entry_i_9",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "verification",
+      "link": "terms.html#index_entry_i_9",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0432\u0430\u043b\u0438\u0434\u0430\u0446\u0438\u044f",
+      "link": "terms.html#index_entry_i_10",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "validation",
+      "link": "terms.html#index_entry_i_10",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0444\u0438\u0447\u0430",
+      "link": "terms.html#index_entry_i_11",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "feature",
+      "link": "terms.html#index_entry_i_11",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0441\u0442\u0435\u0439\u0434\u0436",
+      "link": "terms.html#index_entry_i_12",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "stage",
+      "link": "terms.html#index_entry_i_12",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u043e\u0446\u0435\u043d\u0438\u0432\u0430\u0442\u044c",
+      "link": "terms.html#index_entry_i_13",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "estimate",
+      "link": "terms.html#index_entry_i_13",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u043f\u0440\u043e\u0439\u0434\u0435\u043d\u043e",
+      "link": "terms.html#index_entry_i_14",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "passed",
+      "link": "terms.html#index_entry_i_14",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u043d\u0435 \u043f\u0440\u043e\u0439\u0434\u0435\u043d\u043e",
+      "link": "terms.html#index_entry_i_15",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "fail",
+      "link": "terms.html#index_entry_i_15",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f",
+      "link": "terms.html#index_entry_i_16",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "requirements",
+      "link": "terms.html#index_entry_i_16",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u043f\u0440\u0438\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430",
+      "link": "terms.html#index_entry_i_17",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "suspension",
+      "link": "terms.html#index_entry_i_17",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0432\u043e\u0437\u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435",
+      "link": "terms.html#index_entry_i_18",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "resumption",
+      "link": "terms.html#index_entry_i_18",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u043f\u0435\u0440\u0435\u0434\u0430\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u044c",
+      "link": "terms.html#index_entry_i_19",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "deliverables",
+      "link": "terms.html#index_entry_i_19",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "environmental",
+      "link": "terms.html#index_entry_i_20",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u043e\u043a\u0440\u0443\u0436\u0435\u043d\u0438\u0435",
+      "link": "terms.html#index_entry_i_20",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u044c",
+      "link": "terms.html#index_entry_i_21",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "responsibilities",
+      "link": "terms.html#index_entry_i_21",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0440\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435",
+      "link": "terms.html#index_entry_i_22",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "schedule",
+      "link": "terms.html#index_entry_i_22",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "web",
+      "link": "terms.html#index_entry_i_23",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0441\u0435\u0442\u044c",
+      "link": "terms.html#index_entry_i_23",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "net",
+      "link": "terms.html#index_entry_i_23",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f",
+      "link": "terms.html#index_entry_i_24",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f",
+      "link": "terms.html#index_entry_i_25",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f",
+      "link": "terms.html#index_entry_i_26",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f",
+      "link": "terms.html#index_entry_i_27",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f",
+      "link": "terms.html#index_entry_i_28",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f",
+      "link": "terms.html#index_entry_i_29",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f",
+      "link": "terms.html#index_entry_i_30",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f",
+      "link": "terms.html#index_entry_i_31",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f",
+      "link": "terms.html#index_entry_i_32",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f",
+      "link": "terms.html#index_entry_i_33",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f",
+      "link": "terms.html#index_entry_i_34",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f",
+      "link": "terms.html#index_entry_i_35",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f",
+      "link": "terms.html#index_entry_i_36",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f",
+      "link": "terms.html#index_entry_i_37",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f",
+      "link": "terms.html#index_entry_i_38",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f",
+      "link": "terms.html#index_entry_i_39",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f",
+      "link": "terms.html#index_entry_i_40",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f",
+      "link": "terms.html#index_entry_i_41",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f",
+      "link": "terms.html#index_entry_i_42",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f",
+      "link": "terms.html#index_entry_i_43",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f",
+      "link": "terms.html#index_entry_i_44",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f",
+      "link": "terms.html#index_entry_i_45",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    {
+      "entry": "\u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f",
+      "link": "terms.html#index_entry_i_46",
+      "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f"
+    }
+  ],
+  "doc/content/testing.html": [
+    {
+      "entry": "\u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435",
+      "link": "testing.html#index_entry_i_1",
+      "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435"
+    },
+    {
+      "entry": "\u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u041d\u0422\u0422\u0420",
+      "link": "testing.html#index_entry_i_2",
+      "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435"
+    },
+    {
+      "entry": "HTML",
+      "link": "testing.html#index_entry_i_3",
+      "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435"
+    },
+    {
+      "entry": "HTTP",
+      "link": "testing.html#index_entry_i_4",
+      "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435"
+    },
+    {
+      "entry": "\u0433\u0438\u043f\u0435\u0440\u0442\u0435\u043a\u0441\u0442",
+      "link": "testing.html#index_entry_i_4",
+      "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435"
+    },
+    {
+      "entry": "QC",
+      "link": "testing.html#index_entry_i_5",
+      "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435"
+    },
+    {
+      "entry": "QA",
+      "link": "testing.html#index_entry_i_6",
+      "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435"
+    },
+    {
+      "entry": "\u0436\u0438\u0437\u043d\u0435\u043d\u043d\u044b\u0439 \u0446\u0438\u043a\u043b",
+      "link": "testing.html#index_entry_i_7",
+      "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435"
+    },
+    {
+      "entry": "\u043c\u043e\u043d\u0438\u0442\u043e\u0440\u0438\u043d\u0433 \u0438 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c",
+      "link": "testing.html#index_entry_i_8",
+      "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435"
+    },
+    {
+      "entry": "\u0430\u043d\u0430\u043b\u0438\u0437",
+      "link": "testing.html#index_entry_i_9",
+      "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435"
+    },
+    {
+      "entry": "\u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435",
+      "link": "testing.html#index_entry_i_10",
+      "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435"
+    },
+    {
+      "entry": "\u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f",
+      "link": "testing.html#index_entry_i_11",
+      "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435"
+    },
+    {
+      "entry": "\u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435",
+      "link": "testing.html#index_entry_i_12",
+      "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435"
+    },
+    {
+      "entry": "Charles Proxy",
+      "link": "testing.html#index_entry_i_13",
+      "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435"
+    },
+    {
+      "entry": "\u043e\u0442\u0447\u0451\u0442 \u043e \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0430\u0445 \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+      "link": "testing.html#index_entry_i_14",
+      "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435"
+    },
+    {
+      "entry": "test progress report",
+      "link": "testing.html#index_entry_i_14",
+      "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435"
+    }
+  ],
+  "doc/content/testing_methods.html": [
+    {
+      "entry": "ISTQB",
+      "link": "testing_methods.html#index_entry_i_1",
+      "title": "\u041c\u0435\u0442\u043e\u0434\u044b \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f"
+    },
+    {
+      "entry": "\u0447\u0435\u043a-\u043b\u0438\u0441\u0442",
+      "link": "testing_methods.html#index_entry_i_2",
+      "title": "\u041c\u0435\u0442\u043e\u0434\u044b \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f"
+    },
+    {
+      "entry": "checklist",
+      "link": "testing_methods.html#index_entry_i_2",
+      "title": "\u041c\u0435\u0442\u043e\u0434\u044b \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f"
+    },
+    {
+      "entry": "\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c\u043d\u044b\u0439 \u0441\u043f\u0438\u0441\u043e\u043a",
+      "link": "testing_methods.html#index_entry_i_2",
+      "title": "\u041c\u0435\u0442\u043e\u0434\u044b \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f"
+    }
+  ],
+  "doc/content/artifacts.html": [
+    {
+      "entry": "\u0442\u0435\u0441\u0442- \u043a\u0435\u0439\u0441",
+      "link": "artifacts.html#index_entry_i_1",
+      "title": "\u0410\u0440\u0442\u0438\u0444\u0430\u043a\u0442\u044b"
+    },
+    {
+      "entry": "\u0447\u0435\u043a - \u043b\u0438\u0441\u0442",
+      "link": "artifacts.html#index_entry_i_2",
+      "title": "\u0410\u0440\u0442\u0438\u0444\u0430\u043a\u0442\u044b"
+    },
+    {
+      "entry": "\u0431\u0430\u0433-\u0440\u0435\u043f\u043e\u0440\u0442",
+      "link": "artifacts.html#index_entry_i_3",
+      "title": "\u0410\u0440\u0442\u0438\u0444\u0430\u043a\u0442\u044b"
+    },
+    {
+      "entry": "\u043f\u0440\u0438\u043e\u0440\u0438\u0442\u0435\u0442\u044b \u0431\u0430\u0433\u043e\u0432",
+      "link": "artifacts.html#index_entry_i_4",
+      "title": "\u0410\u0440\u0442\u0438\u0444\u0430\u043a\u0442\u044b"
+    },
+    {
+      "entry": "\u0436\u0438\u0437\u043d\u0435\u043d\u043d\u044b\u0439 \u0446\u0438\u043a\u043b \u0431\u0430\u0433\u0430",
+      "link": "artifacts.html#index_entry_i_5",
+      "title": "\u0410\u0440\u0442\u0438\u0444\u0430\u043a\u0442\u044b"
+    },
+    {
+      "entry": "\u043e\u0442\u0447\u0435\u0442\u0430 \u043e \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0438",
+      "link": "artifacts.html#index_entry_i_6",
+      "title": "\u0410\u0440\u0442\u0438\u0444\u0430\u043a\u0442\u044b"
+    }
+  ],
+  "doc/content/test_design.html": [
+    {
+      "entry": "\u0442\u0435\u0441\u0442 - \u0434\u0438\u0437\u0430\u0439\u043d",
+      "link": "test_design.html#index_entry_i_1",
+      "title": "\u0422\u0435\u0441\u0442 \u0434\u0438\u0437\u0430\u0439\u043d"
+    },
+    {
+      "entry": "\u041f\u043e\u043f\u0430\u0440\u043d\u043e\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435",
+      "link": "test_design.html#index_entry_i_2",
+      "title": "\u0422\u0435\u0441\u0442 \u0434\u0438\u0437\u0430\u0439\u043d"
+    },
+    {
+      "entry": "\u041f\u0440\u0438\u0447\u0438\u043d\u0430 \u0438 \u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u0435",
+      "link": "test_design.html#index_entry_i_3",
+      "title": "\u0422\u0435\u0441\u0442 \u0434\u0438\u0437\u0430\u0439\u043d"
+    },
+    {
+      "entry": "HTML",
+      "link": "test_design.html#index_entry_i_4",
+      "title": "\u0422\u0435\u0441\u0442 \u0434\u0438\u0437\u0430\u0439\u043d"
+    },
+    {
+      "entry": "CSS",
+      "link": "test_design.html#index_entry_i_5",
+      "title": "\u0422\u0435\u0441\u0442 \u0434\u0438\u0437\u0430\u0439\u043d"
+    },
+    {
+      "entry": "\u041a\u043b\u0430\u0441\u0441\u044b",
+      "link": "test_design.html#index_entry_i_6",
+      "title": "\u0422\u0435\u0441\u0442 \u0434\u0438\u0437\u0430\u0439\u043d"
+    },
+    {
+      "entry": "\u041a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0438",
+      "link": "test_design.html#index_entry_i_7",
+      "title": "\u0422\u0435\u0441\u0442 \u0434\u0438\u0437\u0430\u0439\u043d"
+    },
+    {
+      "entry": "\u0418\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b \u0434\u0438\u0437\u0430\u0439\u043d\u0430",
+      "link": "test_design.html#index_entry_i_8",
+      "title": "\u0422\u0435\u0441\u0442 \u0434\u0438\u0437\u0430\u0439\u043d"
+    },
+    {
+      "entry": "\u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441",
+      "link": "test_design.html#index_entry_i_9",
+      "title": "\u0422\u0435\u0441\u0442 \u0434\u0438\u0437\u0430\u0439\u043d"
+    },
+    {
+      "entry": "\u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
+      "link": "test_design.html#index_entry_i_10",
+      "title": "\u0422\u0435\u0441\u0442 \u0434\u0438\u0437\u0430\u0439\u043d"
+    },
+    {
+      "entry": "OSI",
+      "link": "test_design.html#index_entry_i_10",
+      "title": "\u0422\u0435\u0441\u0442 \u0434\u0438\u0437\u0430\u0439\u043d"
+    },
+    {
+      "entry": "\u0432\u0435\u0431-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435",
+      "link": "test_design.html#index_entry_i_11",
+      "title": "\u0422\u0435\u0441\u0442 \u0434\u0438\u0437\u0430\u0439\u043d"
+    },
+    {
+      "entry": "\u0444\u0440\u043e\u043d\u0442\u0435\u043d\u0434",
+      "link": "test_design.html#index_entry_i_11",
+      "title": "\u0422\u0435\u0441\u0442 \u0434\u0438\u0437\u0430\u0439\u043d"
+    },
+    {
+      "entry": "\u0431\u044d\u043a\u0435\u043d\u0434",
+      "link": "test_design.html#index_entry_i_11",
+      "title": "\u0422\u0435\u0441\u0442 \u0434\u0438\u0437\u0430\u0439\u043d"
+    },
+    {
+      "entry": "HTTP",
+      "link": "test_design.html#index_entry_i_12",
+      "title": "\u0422\u0435\u0441\u0442 \u0434\u0438\u0437\u0430\u0439\u043d"
+    }
+  ],
+  "doc/content/Postman_testing.html": [
+    {
+      "entry": "Postman",
+      "link": "Postman_testing.html#index_entry_i_1",
+      "title": "Postman"
+    }
+  ],
+  "doc/content/technologies/web_technologies.html": [],
+  "doc/content/course/about_the_course.html": [
+    {
+      "entry": "\u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a \u041f\u043e",
+      "link": "course/about_the_course.html#index_entry_i_1",
+      "title": "\u041e \u043a\u0443\u0440\u0441\u0435"
+    },
+    {
+      "entry": "testings Skills",
+      "link": "course/about_the_course.html#index_entry_i_2",
+      "title": "\u041e \u043a\u0443\u0440\u0441\u0435"
+    },
+    {
+      "entry": "tech Skills",
+      "link": "course/about_the_course.html#index_entry_i_3",
+      "title": "\u041e \u043a\u0443\u0440\u0441\u0435"
+    },
+    {
+      "entry": "\u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u041f\u041e",
+      "link": "course/about_the_course.html#index_entry_i_4",
+      "title": "\u041e \u043a\u0443\u0440\u0441\u0435"
+    },
+    {
+      "entry": "\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b",
+      "link": "course/about_the_course.html#index_entry_i_5",
+      "title": "\u041e \u043a\u0443\u0440\u0441\u0435"
+    },
+    {
+      "entry": "QA,QC, testing",
+      "link": "course/about_the_course.html#index_entry_i_6",
+      "title": "\u041e \u043a\u0443\u0440\u0441\u0435"
+    },
+    {
+      "entry": "\u043e\u0431\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 QA",
+      "link": "course/about_the_course.html#index_entry_i_7",
+      "title": "\u041e \u043a\u0443\u0440\u0441\u0435"
+    }
+  ],
+  "doc/content/course/life_cycle.html": [],
+  "doc/content/\u0434\u043b\u044f \u0432\u0438\u0434\u0435\u043e.html": [],
+  "doc/content/databases.html": [
+    {
+      "entry": "\u0411\u0414",
+      "link": "databases.html#index_entry_i_1",
+      "title": "\u0411\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445"
+    },
+    {
+      "entry": "\u0431\u0430\u0437\u0430 \u0434\u0430\u043d\u043d\u044b\u0445",
+      "link": "databases.html#index_entry_i_1",
+      "title": "\u0411\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445"
+    },
+    {
+      "entry": "\u0440\u0435\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0411\u0414",
+      "link": "databases.html#index_entry_i_2",
+      "title": "\u0411\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445"
+    },
+    {
+      "entry": "\u043f\u0435\u0440\u0432\u0438\u0447\u043d\u044b\u0439 \u043a\u043b\u044e\u0447",
+      "link": "databases.html#index_entry_i_3",
+      "title": "\u0411\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445"
+    },
+    {
+      "entry": "\u0432\u043d\u0435\u0448\u043d\u0438\u0439 \u043a\u043b\u044e\u0447",
+      "link": "databases.html#index_entry_i_4",
+      "title": "\u0411\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445"
+    },
+    {
+      "entry": "key-value \u0411\u0414",
+      "link": "databases.html#index_entry_i_5",
+      "title": "\u0411\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445"
+    },
+    {
+      "entry": "\u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u043e\u043e\u0440\u0438\u0435\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0411\u0414",
+      "link": "databases.html#index_entry_i_6",
+      "title": "\u0411\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445"
+    },
+    {
+      "entry": "MySQL",
+      "link": "databases.html#index_entry_i_7",
+      "title": "\u0411\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445"
+    },
+    {
+      "entry": "SQL",
+      "link": "databases.html#index_entry_i_8",
+      "title": "\u0411\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445"
+    },
+    {
+      "entry": "SELECT",
+      "link": "databases.html#index_entry_i_9",
+      "title": "\u0411\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445"
+    },
+    {
+      "entry": "INSERT",
+      "link": "databases.html#index_entry_i_10",
+      "title": "\u0411\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445"
+    },
+    {
+      "entry": "UPDATE",
+      "link": "databases.html#index_entry_i_11",
+      "title": "\u0411\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445"
+    },
+    {
+      "entry": "DELETE",
+      "link": "databases.html#index_entry_i_12",
+      "title": "\u0411\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445"
+    }
+  ]
+}

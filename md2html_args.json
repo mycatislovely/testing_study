@@ -1,0 +1,49 @@
+{
+    "options": {
+        "verbose": true
+    },
+    "default": {
+        "input-root": "doc_src",
+        "output-root": "doc/content",
+        "template": "doc_src/templates/custom.html",
+        "no-css": true,
+        "verbose": true
+    },
+    "documents": [
+       
+        { "input-glob": "*.txt", "page-flows": ["sections", "nav"], 
+            "title-from-variable": "title", "sort-by-variable": "SORT_ORDER" },
+        { "input-glob": "course/*.txt", "page-flows": ["course", "nav"], 
+            "title-from-variable": "title", "sort-by-variable": "SORT_ORDER" }, 
+        { "input-glob": "technologies/*.txt", "page-flows": ["technologies", "nav"], 
+            "title-from-variable": "title", "sort-by-variable": "SORT_ORDER" }
+    ],
+    "plugins": {
+        "relative-paths": {
+            "markers": ["path"],
+            "paths": {
+                "resource_path": "doc/",
+                "pict": "doc/pict/",
+                "code": "code/"
+            }
+        },
+        "page-flows": {
+            "header": [
+                 { "link": "doc/content/index_page.html", "title": "Index" }
+            ],
+            "useful_links": [
+               { "link": "https://vladislaveremeev.gitbook.io/qa_bible/", "title": "QA Библия", "external": true },
+               { "link": "https://github.com/Kakha-Khinikadze/Links-QA/blob/master/Links.md", "title": "Энциклопедия джуна", "external": true },
+               { "link": "https://xn--90aexm.xn--b1agwec.xn--p1ai/2020/01/testovye-ploschadki-dlya-trenirovok/", "title": "Подборка площадок", "external": true },
+               { "link": "https://artsiomrusau.com/articles/", "title": "Огромный список ресурсов", "external": true },
+               { "link": "https://tproger.ru/articles/shpargalki-po-sql/", "title": "Шпаргалки по SQL", "external": true },
+               { "link": "https://telegra.ph/Samaya-interesnaya-chast-sobesedovaniya-testirovshchika-zadachi-na-logiku-07-13", "title": "задачки на логику", "external": true }
+            ]
+        },
+        "variables": {"logo": "<b><span style=\"color:#59f;margin-right:7px;\">Test</span></b>" },
+        "page-variables": {},
+        "index": {"i": {"output": "index_page.html", "title": "Index", "index-cache": "index_cache.json", 
+                    "index-cache-relative": true, "letters": true, "letters-block": true }
+        }
+    }
+}

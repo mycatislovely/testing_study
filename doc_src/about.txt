@@ -1,0 +1,59 @@
+<!--VARIABLES {"title": "Введение", "SORT_ORDER": "01"}-->
+
+[TOC]
+
+----------------------------------------------------------------------------------------------------
+# Введение
+
+В данном документе ведется конспект по  изучению новой профессии 
+"Тестировщик", в программе 
+[M<sub>2</sub>H](https://github.com/arctrong/md2html "GitHub"). 
+ 
+При добавлении новых глав или страниц, весь конспект необходимо принудительно перегенерировать для 
+обновления шаблонного содержимого. Для этого в командной строке нужно выполнить команду:
+
+````shell
+generate_doc.bat -f
+````
+
+Материалы:
+
+- [ISTQB. Программа подготовки тестировщик](https://www.rstqb.org/ru/istqb-downloads.html)
+- [Что должен знать и уметь тестировщик](
+    https://www.learnqa.ru/tpost/cxker7lup1-chto-dolzhen-znat-i-umet-testirovschik)
+- [Тестирование ПО: Postman для тестирования API](https://stepik.org/lesson/750285/step/1?unit=752122)
+- [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575/syllabus)
+
+----------------------------------------------------------------------------------------------------
+# Сравнение браузерных движков
+
+
+Движок | Разработчик |Браузер
+-------|-------------|--------------------
+Blink| Google, Opera, Samsung, Intel |Google Chrome, Opera 15+, Microsoft Edge
+EdgeHTML |	Microsoft | Microsoft Edge	
+Gecko | Netscape/Mozilla | Mozilla Firefox	
+GtkHTML	| GNOME	| Novell Evolution	
+KHTML | LGPL | Konqueror
+Presto |Opera Software| Opera
+Prince XML| YesLogic Pty | Prince XML
+Robin |	Ritlabs	| The Bat!
+Tasman | Microsoft	| Microsoft Entourage	—
+Trident	|Microsoft	| Internet Explorer	
+WebKit| KDE, Apple, Nokia, Google| Google Chrome, Safari
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
